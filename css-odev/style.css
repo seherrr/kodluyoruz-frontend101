@@ -1,0 +1,41 @@
+/* .article-30{
+    font-size: 30px;
+    list-style-position: inside;
+}
+ul {
+    list-style-position: inside;
+}
+
+nav a {
+    padding-left: 30px;
+} */
+
+body {
+    text-align: center; 
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    background-color:rgb(245, 245, 245);
+ }
+ nav a {
+    padding-left: 10px;
+ }
+ h1 {
+    color: rgb(122, 65, 11);
+ }
+ h2 {
+    color: rgb(97, 35, 35);
+ }
+ h4 {
+    color:brown;
+    font-size: x-large;
+ }
+ 
+ ol, ul {
+    list-style-position: inside;
+    color: darkred;
+    font-size:large;
+}
+ 
+ .about-us {
+    text-align: left;
+ }
